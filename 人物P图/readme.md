@@ -2,7 +2,7 @@
 
 ---
 ## 欧洲氛围感图片1
-![效果图](../assets/欧洲海报.png)
+![效果图](AIGC-Prompts-photo/assets/欧洲海报.png)
 
 
 **正向提示词：**
