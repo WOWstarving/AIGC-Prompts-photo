@@ -1,4 +1,4 @@
-# 风格化杂图 - 提示词合集
+# 🎨 风格化杂图 - 提示词合集
 
 ## 课本水墨画风1
 <img src="../assets/罗杰疑案.png" width="40%" alt="效果图">                   <img src="../assets/九颗水果封面.jpg" width="40%" alt="效果图">
