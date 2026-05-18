@@ -17,8 +17,16 @@
 生成一张电影感漫画分镜页，主题是“骑自行车”。 整体风格：新海诚电影感漫画，粗粝手绘线条，低饱和色彩，强烈明暗对比，户外阳光明媚，纪实摄影感，近景特写，手部动作突出。 版式：整张图是一页漫画分镜，共9个矩形画格，白色粗边框。第一格最大，作为标题画面；其余画格展示1到8步制作流程。每一格左上角有白色编号框，每一格都有小的白色说明框，文字简短清晰。 内容： 大标题：“Bike to love” 第一格：主角背身看手机 第1格：主角跨上自行车 第2格：自行车轮胎转动 第3格：侧面视角，主角海边骑自行车 第4格：大风吹主角 第5格：主角眼角泪花 第6格：主角手部特写手绳 第7格：主角女朋友坐出租车后座 第8格：女朋友手部特写手绳 最后小格：主角刹车 文字要求：只保留简短英文标签，字体清楚，不要乱码，不要长段文字。 主角形象参考【给他参考图】
 
 ---
-## 窗格动画1
+## 简笔画1
 <img src="../assets/简笔画1.png" width="60%" alt="效果图"> 
 
-**提示词：**
+**提示词：（需要输入）**
 Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a white background, and make it look like it was drawn in MS Paint with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.
+
+
+---
+## 铅笔画1
+<img src="../assets/黑白铅笔画1.png" width="60%" alt="效果图"> 
+
+**提示词：（需要输入）**
+redraw这张照片，像灵魂画手在休息时间随便用中性笔勾勒几笔一样，线条简单利索，乍一看很随便甚至像用左手乱涂一样线条一抖一抖的，眼睛可以是豆豆眼也可以是一个横线条，反正不能展示一点画功，但该有的精髓都在，画面要带有莫名喜感和自信，有种越荒谬越搞笑越好，颜色要黑色线条，画面中只显示纸张和画就可以，
