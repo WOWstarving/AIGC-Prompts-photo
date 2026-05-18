@@ -2,7 +2,7 @@
 
 ---
 ## 沙海沉金
-<img src="../assets/沙海沉金.png" width="50%" alt="效果图">
+<img src="../assets/沙海沉金.png" width="30%" alt="效果图">
 
 
 **提示词：**
