@@ -26,7 +26,7 @@ Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way
 
 ---
 ## 铅笔画1
-<img src="../assets/黑白铅笔画1.png" width="60%" alt="效果图"> 
+<img src="../assets/黑白铅笔画1.png" width="40%" alt="效果图"> 
 
 **提示词：（需要输入）**
 redraw这张照片，像灵魂画手在休息时间随便用中性笔勾勒几笔一样，线条简单利索，乍一看很随便甚至像用左手乱涂一样线条一抖一抖的，眼睛可以是豆豆眼也可以是一个横线条，反正不能展示一点画功，但该有的精髓都在，画面要带有莫名喜感和自信，有种越荒谬越搞笑越好，颜色要黑色线条，画面中只显示纸张和画就可以，
